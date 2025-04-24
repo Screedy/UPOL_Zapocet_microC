@@ -1,0 +1,6 @@
+ 2 Chybi znak '"' na konci retezce
+ 3.3 syntax error, unexpected PROMENNA, expecting ')' or ','
+ 5.54 syntax error, unexpected '&'
+ 6.37 syntax error, unexpected RETEZ
+ 7.41 syntax error, unexpected ROVNO
+ 7.75 syntax error, unexpected '{', expecting WHILE

@@ -1,0 +1,3 @@
+Zadej cislo vetsi nez 1: 22446688
+
+ 2^5 * 11 * 43 * 1483   .. ^ oznacuje mocninu

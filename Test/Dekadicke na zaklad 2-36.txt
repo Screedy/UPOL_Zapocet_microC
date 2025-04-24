@@ -1,0 +1,4 @@
+Zadej nezaporne cislo: 20000
+Zadej zaklad ciselne soustavy 2..36: 16
+
+    Zapis cisla v soustave 16: 4E20
